@@ -1,2 +1,11 @@
-# Masodikok
-Liste de conseille pour première année au cégep de Rimouski
+
+Bienvenue en informatique : 8 conseils clés pour ta 1re année
+
+• Code tous les jours. La pratique bat toujours la théorie : expérimente et n'aie pas peur de casser ton code pour apprendre.
+• Comprends avant de copier. Si tu utilises une solution en ligne ou une IA, assure-toi de pouvoir expliquer chaque ligne.
+• Lis les messages d'erreur. Ils contiennent presque toujours l'indice exact pour résoudre ton problème.
+• Maîtrise tes outils de base. Apprends les commandes essentielles de Git et du terminal dès les premières semaines.
+• Commence tes travaux tôt. Le débogage prend toujours plus de temps que prévu : évite la dernière minute.
+• Demande de l'aide efficacement. Si tu bloques plus de 45 minutes, demande conseil en montrant ton code et ce que tu as déjà tenté.
+• Mise sur l'entraide. Rejoins les groupes d'études et le serveur Discord de ton programme : on apprend beaucoup en aidant les autres.
+• Fais des pauses et reste patient. Décrocher de l'écran débloque souvent les pires bogues, et chacun progresse à son rythme.
